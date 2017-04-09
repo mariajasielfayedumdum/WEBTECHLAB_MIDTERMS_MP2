@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en" ng-app>
+<head>
+  <!-- Include meta tag to ensure proper rendering and touch zooming -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Include jQuery Mobile stylesheets -->
+  <link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+  <!-- Include the jQuery library -->
+  <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+  <!-- Include the jQuery Mobile library -->
+  <script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.6/angular.min.js"></script>
+	<script src="scriptmain.js"></script>
+	<link href="stylesmain.css" rel="stylesheet" type="text/css" />
+  </head>
+<body>
+
+<div data-role="page" id="pageone">
+  <div data-role="header">
+    <h1>Instructor Evaluation Form</h1>
+  </div>
+
+  <div data-role="main" class="ui-content">
+    	<div ng-controller="theController" > 
+            <form>
+            <label>Name of Instructor:</label>
+            <input type="text" ng-model="instructor.name"/></br>
+            <label>Faculty ID Number:</label>
+            <input type="text" ng-model="instructor.idnumber"></br>
+            <label>Subject:</label>
+            <input type="text" ng-model="instructor.subject"></br>
+			<label>Class Code:</label>
+            <input type="text" ng-model="instructor.classcode"></br>
+            </form>
+				
+			<!-- Trigger/Open The Modal -->
+				<button id="myBtn">Evaluate</button>
+
+			<!-- The Modal -->
+				<div id="myModal" class="modal">
+
+			<!-- Modal content -->
+				<div class="modal-content">
+					<span class="close">&times;</span>
+					<p>You are to evaluate {{instructor.name}}</p>
+					<button id="secBtn" >Proceed</button>
+				</div>
+
+				</div>
+			
+        </div>
+  </div>
+  
+			
+			
+</body>
+</html>
