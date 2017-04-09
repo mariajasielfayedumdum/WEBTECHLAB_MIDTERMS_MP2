@@ -1,0 +1,212 @@
+{"quizlist":[
+
+	{
+	"question":"Does the instructor introduce the day’s lesson clearly at the beginning of the period in order to show its relation to the previous lesson?",
+	"option1":"always clear and definite",
+	"option2":"often clear and definite ",
+	"option3":"sometimes clear",
+	"option4":"seldom clear",
+	"option5":"not clear at all"
+	},
+	{
+	"question":"Does the instructor present the lesson in an interesting manner?",
+	"option1":"always ",
+	"option2":"often",
+	"option3":"sometimes",
+	"option4":"seldom",
+	"option5":"never"
+	},
+	{
+	"question":"Does the instructor speak loud enough to be understood?",
+	"option1":"always ",
+	"option2":"often",
+	"option3":"sometimes",
+	"option4":"seldom",
+	"option5":"never"
+	},
+	{
+	"question":"Rate the instructor’s ability/technique to attract and maintain the attention of the class during the lesson.",
+	"option1":"very effective",
+	"option2":"effective",
+	"option3";"alright",
+	"option4":"ineffective",
+	"option5":"very ineffective"
+	},
+	{
+	"question":"Does the instructor point out clearly the important aspects of the subject matter?",
+	"option1":"always",
+	"option2":"often",
+	"option3":"sometimes",
+	"option4":"seldom",
+	"option5":"never"
+	},
+	{
+	"question":"When the instructor teaches, are his materials (e.g. subject matter, accompanying activities, and audio-visual aids, if any) well organized and logically arranged?",
+	"option1":"excellent, vey systematic; thoroughly planned",
+	"option2":"above average; quite systematic",
+	"option3":"average; adequate but could be improved",
+	"option4":"below average; poor planning; no logical presentation",
+	"option5":"poor; confusing; no lesson plan; no preparation"
+	},
+	{
+	"question":"How do you rate your instructor’s knowledge of the subject matter?",
+	"option1":"poor; lacks depth and mastery",
+	"option2":"hardly adequate ",
+	"option3":"fair",
+	"option4":"good grasp of the subject",
+	"option5":"excellent; knowledge broad and accurate"
+	},
+	{
+	"question":"How well does the instructor make use of the blackboard and/or aids necessary in the presentation and discussion of the lesson?",
+	"option1":"always makes very effective use of blackboard and/teaching aids",
+	"option2":"often makes effective use of blackboard and/teaching aids",
+	"option3":"sometimes makes effective use of blackboard and/teaching aids",
+	"option4":"seldom makes use of blackboard and/teaching aids",
+	"option5":"never makes use of blackboard and/teaching aids"
+	},
+	{
+	"question":"Does the instructor have annoying mannerism and/or verbal behavior that distract you from learning?",
+	"option1":"none",
+	"option2":"very few",
+	"option3":"few",
+	"option4":"several",
+	"option5":"many"
+	},
+	{
+	"question":"Do the instructor’s methods of teaching for this particular subject enable you to understand the lesson?",
+	"option1":"very much",
+	"option2":"much",
+	"option3":"just right",
+	"option4":"a little",
+	"option5":"very little"
+	},
+	{
+	"question":"Does the instructor show interest and enthusiasm in teaching?",
+	"option1":"very much",
+	"option2":"much",
+	"option3":"just right",
+	"option4":"a little",
+	"option5":"very little"
+	},
+	{
+	"question":"Is class time productively used?",
+	"option1":"always",
+	"option2":"often",
+	"option3":"sometimes",
+	"option4":"seldom",
+	"option5":"never"
+	},
+	{
+	"question":"Does the instructor point out how the subject is connected to your personal improvement, to your future profession, and to your life as a whole?",
+	"option1":"no, not at all",
+	"option2":"yes, but not too clearly",
+	"option3":"yes, clearly enough",
+	"option4":"yes, very clearly",
+	"option5":"yes, very clearly and relevant"
+	},
+	{
+	"question":"How do you describe the instructor’s relationship with the students?",
+	"option1":"very helpful and approachable",
+	"option2":"quite helpful and approachable",
+	"option3":"somewhat helpful and approachable",
+	"option4":"indifferent to students’ needs and problems",
+	"option5":"aloof and unapproachable"
+	},
+	{
+	"question":"Does the instructor encourage the students to learn or improve their performance?",
+	"option1":"always",
+	"option2":"often",
+	"option3":"sometimes",
+	"option4":"seldom",
+	"option5":"never"
+	},
+	{
+	"question":"How would you describe the classroom atmosphere created by the instructor?",
+	"option1":"very dull",
+	"option2":"dull",
+	"option3":"just right",
+	"option4":"pleasant; conductive to learning",
+	"option5":"very pleasant and conducive to learning"
+	},
+	{
+	"question":"What attitude does the instructor show in the classroom?",
+	"option1":"always democratic and motivating",
+	"option2":"sometimes democratic and motivating",
+	"option3":"has an “I don’t take” attitude",
+	"option4":"sometimes threatening and authoritarian",
+	"option5":"every time threatening and authoritarian"
+	},
+	{
+	"question":"How would you rate the instructor’s ability to encourage students to participate in classroom discussions, recitations, etc.",
+	"option1":"excellent",
+	"option2":"often",
+	"option3":"average",
+	"option4":"below average",
+	"option5":"poor"
+	},
+	{
+	"question":"Are the requirements challenging and relevant to the course?",
+	"option1":"always",
+	"option2":"often",
+	"option3":"sometimes",
+	"option4":"seldom",
+	"option5":"never"
+	},
+	{
+	"question":"How does the instructor monitor the performance of students?",
+	"option1":"very inappropriately",
+	"option2":"inappropriately",
+	"option3":"just right",
+	"option4":"appropriately",
+	"option5":"very appropriately"
+	},
+	{
+	"question":"Does the instructor exercise due diligence in conducting examinations and evaluating submitted course requirement?",
+	"option1":"never",
+	"option2":"seldom",
+	"option3":"sometimes",
+	"option4":"often",
+	"option5":"always"
+	},
+	{
+	"question":"Does the instructor demonstrate a positive attitude towards the importance of research?",
+	"option1":"very often",
+	"option2":"often",
+	"option3":"sometimes",
+	"option4":"seldom",
+	"option5":"never"
+	},
+	{
+	"question":"Does the instructor present updated information and research relevant to the Philippine setting?",
+	"option1":"very often",
+	"option2":"often",
+	"option3":"sometimes",
+	"option4":"seldom",
+	"option5":"never"
+	},
+	{
+	"question":"Does the instructor stimulate critical reflection by encouraging students to analyze thoroughly a situation, a case, a finding, from different perspective?",
+	"option1":"very often",
+	"option2":"often",
+	"option3":"sometimes",
+	"option4":"seldom",
+	"option5":"never"
+	},
+	{
+	"question":"Does the instructor encourage students to evaluate a situation objectively free from personal bias?",
+	"option1":"very often",
+	"option2":"often",
+	"option3":"sometimes",
+	"option4":"seldom",
+	"option5":"never"
+	},
+	{
+	"question":"How do you rate the instructor in general?",
+	"option1":"excellent",
+	"option2":"very good",
+	"option3":"good",
+	"option4":"fair",
+	"option5":"poor"
+	}
+
+]}
