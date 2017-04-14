@@ -1,5 +1,4 @@
-{"quizlist":[
-
+"questionAnswer": [
 	{
 	"question":"Does the instructor introduce the day’s lesson clearly at the beginning of the period in order to show its relation to the previous lesson?",
 	"option1":"always clear and definite",
@@ -28,7 +27,7 @@
 	"question":"Rate the instructor’s ability/technique to attract and maintain the attention of the class during the lesson.",
 	"option1":"very effective",
 	"option2":"effective",
-	"option3";"alright",
+	"option3":"alright",
 	"option4":"ineffective",
 	"option5":"very ineffective"
 	},
@@ -208,5 +207,4 @@
 	"option4":"fair",
 	"option5":"poor"
 	}
-
-]}
+]
