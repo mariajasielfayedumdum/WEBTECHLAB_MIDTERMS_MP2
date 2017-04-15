@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <script src="home.js"></script>
+    <link href="home.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div class = "form">
+<form class="pure-form pure-form-stacked" enctype="application/json">
+        <h1> INSTRUCTOR EVALUATION FORM</h1>        
+        <div class="pure-control-group">
+            <label for="name">Instructor's Name</label>
+            <input id="name" type="text" name="name">
+        </div>
+
+        <div class="pure-control-group">
+            <label for="id">Faculty ID Number</label>
+            <input id="id" type="text" name="id">
+        </div>
+
+        <div class="pure-control-group">
+            <label for="subject">Subject</label>
+            <input id="subject" type="text" name="subject">
+        </div>
+
+</form>
+
+<!-- Trigger/Open The Modal -->
+<button id="myBtn">Submit</button>
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <p>You are evaluating </p>
+    <p><span id = 'namedisplay'></span></p>
+    <p>with a Faculty ID Number of <span id = 'iddisplay'></span></p>
+    <a href = "second.html"><button id="secBtn" >Proceed</button></a>
+  </div>
+
+</div>
+
+</body>
+</html>
