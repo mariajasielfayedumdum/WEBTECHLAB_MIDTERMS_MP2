@@ -1,0 +1,29 @@
+.content {
+	position: fixed;
+     top: 0;
+     left: 0;
+     width: 100%;
+}
+.content h1 {
+	background-color: #BBBBBB;
+	width: 100%;
+	padding: 10px;
+	margin-top:0 ;
+	margin-bottom: 5%;
+	text-align: center;
+}
+#topbar {
+	width:90%;
+	margin-right: 5%;
+	margin-left: 5%;
+    margin-top: 0;
+    margin-bottom: 4%;
+    font-size: 100%;
+}
+#navContent{
+	text-align: center;
+	margin-top: 40%;
+	width:90%;
+	margin-right: 5%;
+	margin-left: 5%;
+}
