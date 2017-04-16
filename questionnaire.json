@@ -1,4 +1,4 @@
-"questionAnswer": [
+{"questionAnswer": [
 	{
 	"question":"Does the instructor introduce the day’s lesson clearly at the beginning of the period in order to show its relation to the previous lesson?",
 	"option1":"always clear and definite",
@@ -208,3 +208,4 @@
 	"option5":"poor"
 	}
 ]
+}
