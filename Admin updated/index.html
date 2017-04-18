@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+      <title>Login</title>
+      <link rel="stylesheet" href="css/style.css">
+      </head>
+      <body>
+        <br>
+          <br>
+            <br>
+              <div class="login-page">
+                <div class="form">
+                </form>
+                <form class="login-form">
+                  <input type="text" placeholder="username" name="userid"/>
+                  <input type="password" placeholder="password" name="pswrd"/>
+                  <input class="button" type="button" onclick="check(this.form)" value="login"/>
+                  <p class="message">Forgot password? 
+                    <a href="index.html">Click here!</a>
+                  </p>
+                </form>
+              </div>
+            </div>
+            <script language="javascript">
+      function check(form)/*function to check userid & password*/
+    {
+    /*the following code checkes whether the entered userid and password are matching*/
+    if(form.userid.value == "admin" && form.pswrd.value == "1234admin")
+  {
+    window.open('landing-page.html')/*opens the target page while Id & password matches*/
+  }
+ else
+ {
+   alert("Error Password or Username")/*displays error message*/
+  }
+}
+</script>
+            <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+            <script src="js/index.js"/>
+          </body>
+        </html>
