@@ -1,11 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html manifest="manifest.appcache">
 <head>
 <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link href="home.css" rel="stylesheet" type="text/css" media="screen, handheld" />
+    <meta name="viewport" content="width=device-width, initial-scale=.5, maximum-scale=12.0, minimum-scale=.25 user-scalable=yes">
+      <!-- Include meta tag to ensure proper rendering and touch zooming -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <script src="home.js"></script>
-    <link href="home.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
 <div class = "form">
@@ -22,8 +23,8 @@
         </div>
 
         <div class="pure-control-group">
-            <label for="subject">Subject</label>
-            <input id="subject" type="text" name="subject">
+            <label for="classcode">Class Code</label>
+            <input id="classcode" type="text" name="classcode">
         </div>
 
 </form>
@@ -40,7 +41,7 @@
     <p>You are evaluating </p>
     <p><span id = 'namedisplay'></span></p>
     <p>with a Faculty ID Number of <span id = 'iddisplay'></span></p>
-    <a href = "second.html"><button id="secBtn" >Proceed</button></a>
+    <a href = "#"><button id="secBtn" method = "POST">Proceed</button></a>
   </div>
 
 </div>
